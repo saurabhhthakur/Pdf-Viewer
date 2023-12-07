@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PDF Viewer</string>
+    <string name="settings">Settings</string>
+    <string name="sort">Sort</string>
+    <string name="search">Search</string>
+
+
+</resources>
